@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787654952423",
+    "project_id": "feisty-pottery-396408",
+    "storage_bucket": "feisty-pottery-396408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787654952423:android:0173e94b793d21ef61e942",
+        "android_client_info": {
+          "package_name": "com.example.ecbee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFbzQePlbkPWBF_nv-iqptk_dUnFo4G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
